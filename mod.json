@@ -1,0 +1,10 @@
+{
+  "id": "kl.recolor",
+  "name": "Recolor",
+  "version": "1.3.0",
+  "author": "KrazenLabs",
+  "description": "Lets you change the colors of the player kobold and the dragons.",
+  "assembly": "Recolor.dll",
+  "loaderVersion": ">=1.1.0",
+  "url": "https://www.krazenlabs.com"
+}
