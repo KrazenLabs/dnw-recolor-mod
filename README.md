@@ -1,3 +1,4 @@
+![DnW Recolor Mod](https://github.com/KrazenLabs/dnw-recolor-mod/blob/main/assets/logo.png)
 # Drag'n'Wash Recolor Mod
 
 This mod lets you change the colors for the player character and the dragons on the fly ingame!
