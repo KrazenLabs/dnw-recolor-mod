@@ -7,3 +7,4 @@ release/
 /docs/
 *.user
 .vs/
+*.af
