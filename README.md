@@ -6,7 +6,7 @@ Pretty simple!
 
 # Installation
 
-- Simply download the [latest version of the DnW Mod Manager](https://github.com/KrazenLabs/dnw-modmanager/releases/latest), which will let you install the mod directly. No separate download needed!
+Simply download the [latest version of the DnW Mod Manager](https://github.com/KrazenLabs/dnw-modmanager/releases/latest), which will let you install the mod directly. No separate download needed!
 
 # Usage
 
@@ -14,4 +14,4 @@ Very straightforward: press F10 in-game to open the mod menu and simply adjust t
 
 # How to uninstall
 
-Simply deleted the "Recolor" directory within the "Mods" directory.
+Simply remove it in the Mod Manager.
