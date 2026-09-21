@@ -8,3 +8,5 @@ release/
 *.user
 .vs/
 *.af
+/promo/*
+*.cm
